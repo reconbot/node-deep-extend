@@ -1,6 +1,8 @@
 Deep Extend
 ===========
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/reconbot/node-deep-extend.svg)](https://greenkeeper.io/)
+
 Recursive object extending.
 
 [![NPM](https://nodei.co/npm/deep-extend.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/deep-extend/)

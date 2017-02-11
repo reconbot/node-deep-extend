@@ -45,8 +45,8 @@
     "test": "./node_modules/.bin/mocha"
   },
   "devDependencies": {
-    "mocha": "^2.2.1",
-    "should": "^5.2.0"
+    "mocha": "^3.2.0",
+    "should": "^11.2.0"
   },
   "directories": {
     "lib": "./lib/",
